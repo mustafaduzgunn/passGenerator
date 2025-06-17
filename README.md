@@ -27,8 +27,11 @@ A customizable and persistent password generator written in Python. The program 
 
 📂 File Structure
 password-generator/
+
 ├── password_generator.py   # Main program
+
 ├── settings.json           # Settings file (auto-generated on first run)
+
 └── README.md               # Project documentation
 
 🖥️ Usage
