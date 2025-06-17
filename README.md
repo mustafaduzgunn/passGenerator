@@ -45,13 +45,13 @@ You will then be prompted with the following menu:
 
 ⚙️ Settings Explained
 Setting	Description
-length	Length of the generated password
-turkish_characters	Whether to include Turkish letters (ç, ğ, etc.)
-use_special_characters	Whether to include any special characters
-custom_special_characters	If defined, only these characters are used as special characters
-include_uppercase	Whether to include A-Z
-include_lowercase	Whether to include a-z
-include_digits	Whether to include 0-9
+  - length	                    Length of the generated password
+  - turkish_characters	        Whether to include Turkish letters (ç, ğ, etc.)
+  - use_special_characters	    Whether to include any special characters
+  - custom_special_characters	  If defined, only these characters are used as special characters
+  - include_uppercase	          Whether to include A-Z
+  - include_lowercase	          Whether to include a-z
+  - include_digits	            Whether to include 0-9
 
 📝 Example Output
 ✨ Your first password (with current settings):
