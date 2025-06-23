@@ -55,7 +55,7 @@ Setting	Description
 
 📝 Example Output
 ✨ Your first password (with current settings):
-🔐 m8A$w@fX2z!L
+🔐 m8A$w@fX2z!Lk
 
 [1] Generate new password
 [2] Change settings
